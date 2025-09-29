@@ -3,18 +3,6 @@
 **An evolution of the Agriconnect concept**
 A modern marketplace connecting farmers and buyers, with real-time communication and mobile-friendly access.
 
-## Table of Contents
-
-* [Features](#features)
-* [Tech Stack](#tech-stack)
-* [Installation](#installation)
-* [Usage](#usage)
-* [API Endpoints](#api-endpoints)
-* [Project Structure](#project-structure)
-* [Stretch Goals](#stretch-goals)
-* [Contributing](#contributing)
-* [License](#license)
-
 ## Features
 
 ### Core
@@ -149,3 +137,4 @@ AgriConnect+/
 ## Authors
   Amos Kipkorir
   Tasha Kuria
+
