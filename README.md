@@ -1,6 +1,5 @@
 # Smart Farm Marketplace (AgriConnect+)
 
-**An evolution of the Agriconnect concept**
 A modern marketplace connecting farmers and buyers, with real-time communication and mobile-friendly access.
 
 ## Features
@@ -137,4 +136,5 @@ AgriConnect+/
 ## Authors
   Amos Kipkorir
   Tasha Kuria
+
 
